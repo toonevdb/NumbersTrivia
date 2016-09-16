@@ -1,0 +1,15 @@
+{
+    "name": "toonevdb/numbers-trivia",
+    "description": "Wrapper around numbersapi.com, providing trivia facts.",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Anthony Vanden Bossche",
+            "email": "toonevdb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
