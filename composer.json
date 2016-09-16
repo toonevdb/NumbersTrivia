@@ -4,6 +4,7 @@
     "license": "Unlicense",
     "type": "library",
     "keywords": ["trivia", "fun", "numbersapi"],
+    "homepage": "https://github.com/toonevdb/NumbersTrivia",
     "authors": [
         {
             "name": "Anthony Vanden Bossche",
