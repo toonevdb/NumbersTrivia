@@ -2,6 +2,8 @@
     "name": "toonevdb/numbers-trivia",
     "description": "Wrapper around numbersapi.com, providing trivia facts.",
     "license": "Unlicense",
+    "type": "library",
+    "keywords": ["trivia", "fun", "numbersapi"],
     "authors": [
         {
             "name": "Anthony Vanden Bossche",
